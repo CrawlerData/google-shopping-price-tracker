@@ -1,0 +1,7 @@
+checked_at,product_id,country,label,mode,price,total_price,currency,merchant,sellers_count,job_id,credits
+2026-10-13T05:11:01Z,11726664398501807381,us,Sony WH-1000XM5,sellers,228.0,228.0,USD,Best Buy,10,6acdbd67aaddb7eaed95a8b7,1
+2026-10-13T05:11:50Z,11726664398501807381,us,Sony WH-1000XM5,info,228.0,,USD,,,6acdbd97aaddb7eaed95a8d3,1
+2026-10-13T05:11:59Z,11726664398501807381,us,Sony WH-1000XM5,sellers,228.0,228.0,USD,Best Buy,10,6acdbda0aaddb7eaed95a8ef,1
+2026-10-13T05:11:01Z,7580511071886337697,us,Samsung Galaxy Buds3 FE,sellers,94.99,94.99,USD,Walmart - Truly Trending,10,6acdbd7faaddb7eaed95a8c5,1
+2026-10-13T05:11:50Z,7580511071886337697,us,Samsung Galaxy Buds3 FE,info,99.99,,USD,,,6acdbd9baaddb7eaed95a8e1,1
+2026-10-13T05:11:59Z,7580511071886337697,us,Samsung Galaxy Buds3 FE,sellers,94.99,94.99,USD,Walmart - Truly Trending,10,6acdbdb8aaddb7eaed95a8fd,1
